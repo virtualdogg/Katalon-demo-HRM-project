@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Employee Management  Qualifications</name>
+   <tag></tag>
+   <elementGuidId>5a7d5ee9-6618-44e3-814d-be7337ee0ba7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.combined-menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='autoComplete_result_0']/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Employee Management > Qualifications&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e09f50a6-ccf7-4e44-ab5b-c5e2407895e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>combined-menu-title</value>
+      <webElementGuid>994a42f6-de09-4f9a-bee7-04cae82bf9af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employee Management > Qualifications</value>
+      <webElementGuid>6edf651c-56a8-4d1a-9fbb-f629b72d8fb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoComplete_result_0&quot;)/div[@class=&quot;combined-menu-title&quot;]</value>
+      <webElementGuid>0eb239fa-aae7-421b-9173-3a930ca28fe6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='autoComplete_result_0']/div[2]</value>
+      <webElementGuid>e4ecf856-3f03-4552-b4cf-451c4cdacc3e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Education'])[1]/following::div[1]</value>
+      <webElementGuid>9a0c7db7-5d67-4bb8-b9a7-3d612ec2b532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/following::div[3]</value>
+      <webElementGuid>0cc50e07-5544-42bc-849e-dfc0a546df80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People Management'])[1]/preceding::div[1]</value>
+      <webElementGuid>3e1bfdc5-d3be-4632-a738-ad010e79a073</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR Administration'])[1]/preceding::div[1]</value>
+      <webElementGuid>139a4fb5-97f0-4684-9edf-937c5fb3f559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employee Management > Qualifications']/parent::*</value>
+      <webElementGuid>fbe11fe1-eb72-4c1c-8f66-d25df0cd405d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div[2]</value>
+      <webElementGuid>46126731-9f23-4078-8710-7c74d2390eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Employee Management > Qualifications' or . = 'Employee Management > Qualifications')]</value>
+      <webElementGuid>9dad0b71-5cfe-43a8-92c8-8aa0a4a668ad</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

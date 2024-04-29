@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Already exists</name>
+   <tag></tag>
+   <elementGuidId>8241d401-2c52-412f-a263-94721205eef6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.help-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal1']/form/div/div/materializecss-decorator/div/sf-decorator/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Already exists&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>a2363150-6c12-4adb-8554-ee488127cc04</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>help-block</value>
+      <webElementGuid>8d7ec396-bdc1-4b6f-8d1b-1dc646842efa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sf-message</name>
+      <type>Main</type>
+      <value>form.description</value>
+      <webElementGuid>8d7f5b82-274b-4f34-adfa-e216473fe83d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Already exists</value>
+      <webElementGuid>8b91022e-9eca-4199-a924-ece685db7c29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal1&quot;)/form[@class=&quot;ng-dirty ng-valid-parse ng-invalid ng-invalid-duplication-education ng-invalid-schema-form&quot;]/div[@class=&quot;modal-content&quot;]/div[1]/materializecss-decorator[1]/div[@class=&quot;schema-form-section row&quot;]/sf-decorator[1]/div[@class=&quot;input-field col s12 m12 l12&quot;]/span[@class=&quot;help-block&quot;]</value>
+      <webElementGuid>01aa033c-0da4-4bb1-890f-c7e7f4b1b417</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal1']/form/div/div/materializecss-decorator/div/sf-decorator/div/span</value>
+      <webElementGuid>a665e995-46c1-41ca-b54a-fde4dc53354b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>8fe55905-eb26-4a65-9f12-ea5c41c7c0d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[1]</value>
+      <webElementGuid>c0223653-7f21-43a4-ac32-379995e161d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Already exists']/parent::*</value>
+      <webElementGuid>2cba50f6-373c-4b3c-8f3a-2e1c4a8a3460</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sf-decorator/div/span</value>
+      <webElementGuid>7c676b1a-05e4-4daa-9e80-41d8bc5d23e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Already exists' or . = 'Already exists')]</value>
+      <webElementGuid>cd0c587d-17da-4dc4-b081-c5f9bdc7abc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

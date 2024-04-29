@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_more_horizSelect AllDeselect AllDelete _5f7308</name>
+   <tag></tag>
+   <elementGuidId>a5b06518-2a41-418e-9d35-8b724e004601</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.pim-container</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount-vue-app']/ui-view/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mount-vue-app div >> internal:has-text=&quot;more_horizSelect AllDeselect AllDelete SelectedLevel of Education arrow_upward d&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c600f9a-0cf4-47d0-8638-87e93568246e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pim-container</value>
+      <webElementGuid>4428fcac-baaf-44ac-812b-e6e71a7f2946</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_horizSelect AllDeselect AllDelete SelectedLevel of Education   arrow_upward dadohrm_edit  Short-cycle tertiary educationohrm_edit  ytghohrm_edit Rows per page▼1020501001020501001 - 3 of 3add</value>
+      <webElementGuid>ac15aa74-e6f1-455d-93cc-d4e96fae48c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/ui-view[1]/div[@class=&quot;pim-container&quot;]</value>
+      <webElementGuid>2da6e330-ff61-428d-b81a-27827548bb08</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/ui-view/div</value>
+      <webElementGuid>81e64463-d8df-47b0-a540-6750683aec48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Timesheet'])[2]/following::div[6]</value>
+      <webElementGuid>d29f45e7-516e-49ff-b8cb-b3f1da9ef8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Request'])[2]/following::div[9]</value>
+      <webElementGuid>e7d536e8-7291-4744-aebc-c05fa855b4ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ui-view/div</value>
+      <webElementGuid>f9c65034-2072-4e68-9307-8f0eea2df2ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'more_horizSelect AllDeselect AllDelete SelectedLevel of Education   arrow_upward dadohrm_edit  Short-cycle tertiary educationohrm_edit  ytghohrm_edit Rows per page▼1020501001020501001 - 3 of 3add' or . = 'more_horizSelect AllDeselect AllDelete SelectedLevel of Education   arrow_upward dadohrm_edit  Short-cycle tertiary educationohrm_edit  ytghohrm_edit Rows per page▼1020501001020501001 - 3 of 3add')]</value>
+      <webElementGuid>2a2c04c2-1570-4e46-a28c-f218866719fa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

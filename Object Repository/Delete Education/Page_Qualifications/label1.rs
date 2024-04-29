@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label1</name>
+   <tag></tag>
+   <elementGuidId>1c582f5b-5ee5-4207-9ba1-3237bc5fe1ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>tr:nth-of-type(3) > td > label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='educationsDiv']/crud-panel/div/div/list/table/tbody/tr[3]/td/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Primary education ohrm_edit&quot;i] >> label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d6a4859a-f3dd-4d6e-b731-ab8d5372dea3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>checkbox_list0_1</value>
+      <webElementGuid>fa3e0fff-8917-4109-aa7a-deee53ad04b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;educationsDiv&quot;)/crud-panel[1]/div[@class=&quot;form-div&quot;]/div[@class=&quot;list-container&quot;]/list[1]/table[@class=&quot;highlight bordered&quot;]/tbody[1]/tr[3]/td[1]/label[1]</value>
+      <webElementGuid>f0483114-5fd2-4534-b0d3-5621c2757170</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='educationsDiv']/crud-panel/div/div/list/table/tbody/tr[3]/td/label</value>
+      <webElementGuid>daca319c-94ae-40cf-9d03-11d68fdace43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/label</value>
+      <webElementGuid>63a2c5f3-71b7-49bf-aac8-a716d725e0e9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

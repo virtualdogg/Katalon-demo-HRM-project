@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Delete Selected</name>
+   <tag></tag>
+   <elementGuidId>286a0bc5-8998-4679-b9f2-1684e06c3099</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='listdirective-options-dropdown-list0-action-deleteSelection}']/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Delete Selected&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>94c6a017-b356-45ff-acd6-f5b58feb4ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>list.runAction(listAction.action, listData.name)</value>
+      <webElementGuid>8f963cab-c352-4bd7-9655-f4311419b519</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delete Selected</value>
+      <webElementGuid>704c2c19-d93f-4215-a8e4-5e56191f77e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listdirective-options-dropdown-list0-action-deleteSelection}&quot;)/a[1]</value>
+      <webElementGuid>c72420a6-7445-426f-b1b6-9538b61909a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='listdirective-options-dropdown-list0-action-deleteSelection}']/a</value>
+      <webElementGuid>03916f2e-03c7-4455-8608-e2a0d4113cc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Delete Selected')]</value>
+      <webElementGuid>23eaa336-658c-4043-8036-5920bc6b68ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deselect All'])[1]/following::a[1]</value>
+      <webElementGuid>30b8074e-985b-49e5-9572-b802aadbc795</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::a[2]</value>
+      <webElementGuid>af30c8f1-4b93-4a92-b80f-1c85d6fa400d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_upward'])[1]/preceding::a[1]</value>
+      <webElementGuid>b64f7f8a-25ef-4bef-995e-cdd6490884c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Delete Selected']/parent::*</value>
+      <webElementGuid>2f9fd815-b223-4b12-af11-390e1ff541a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[78]</value>
+      <webElementGuid>91ef84b9-19f2-48dd-82b8-40d12ed72ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/ul/li[3]/a</value>
+      <webElementGuid>340321a3-e154-4df2-87bc-4e7b41a92c1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Delete Selected' or . = 'Delete Selected')]</value>
+      <webElementGuid>49e2ce30-83db-4282-b228-51d87ee82035</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

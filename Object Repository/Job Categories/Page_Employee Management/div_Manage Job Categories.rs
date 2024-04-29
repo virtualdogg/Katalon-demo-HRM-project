@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Manage Job Categories</name>
+   <tag></tag>
+   <elementGuidId>af6bc8d7-e7bb-442d-a2e4-3d9f40ee6693</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.menu-title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='autoComplete_result_0']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Manage Job Categories&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>424f4928-9d03-46c0-a9fb-414ebc4aec97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-title</value>
+      <webElementGuid>84e5c8f3-e6cb-4d07-8d66-066fd8f66694</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Job Categories</value>
+      <webElementGuid>9814e499-8263-485c-9d3a-7aaf16530c33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoComplete_result_0&quot;)/div[@class=&quot;menu-title&quot;]</value>
+      <webElementGuid>d04107a8-92e1-4d43-80f0-eb6034c17176</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='autoComplete_result_0']/div</value>
+      <webElementGuid>2c321e3a-9345-41ff-8964-6fe993aa045e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='search'])[1]/following::div[2]</value>
+      <webElementGuid>c602f218-84eb-4e5a-8e1d-234f8f410af1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Regional HR Manager'])[1]/following::div[7]</value>
+      <webElementGuid>d19fc604-5aa6-451d-902c-af03f668724c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HR Administration > Job'])[1]/preceding::div[1]</value>
+      <webElementGuid>d0fd9ad0-35ff-46ee-84d1-eb3e93375a99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='People Management'])[1]/preceding::div[2]</value>
+      <webElementGuid>859d101b-b807-44a6-a694-e6df9721c4c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Job Categories']/parent::*</value>
+      <webElementGuid>954e2d44-c3aa-4449-a4c1-3a0057064cf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div</value>
+      <webElementGuid>f6f17b96-3ed2-4f11-b597-e2497bea7614</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Manage Job Categories' or . = 'Manage Job Categories')]</value>
+      <webElementGuid>3a2b9b9a-2859-493c-b9e5-b150c0c88ce5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

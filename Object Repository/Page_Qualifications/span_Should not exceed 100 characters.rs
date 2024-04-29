@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Should not exceed 100 characters</name>
+   <tag></tag>
+   <elementGuidId>13179856-ce15-446b-8ada-c862473230a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.help-block</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal1']/form/div/div/materializecss-decorator/div/sf-decorator/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Should not exceed 100 characters&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>14195e79-6805-4928-82ff-2348d51e3dc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>help-block</value>
+      <webElementGuid>51bbc99d-e7eb-48d9-9d12-f02ecc32403f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>sf-message</name>
+      <type>Main</type>
+      <value>form.description</value>
+      <webElementGuid>36080510-10a3-48a1-a7b8-553a1b4cd1f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Should not exceed 100 characters</value>
+      <webElementGuid>dd29daa4-1a39-4e85-9584-a04a1de0bbc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal1&quot;)/form[@class=&quot;ng-valid-duplication-education ng-dirty ng-valid-parse ng-invalid-tv4-201-remove ng-invalid ng-invalid-tv4-201 ng-invalid-schema-form&quot;]/div[@class=&quot;modal-content&quot;]/div[1]/materializecss-decorator[1]/div[@class=&quot;schema-form-section row&quot;]/sf-decorator[1]/div[@class=&quot;input-field col s12 m12 l12&quot;]/span[@class=&quot;help-block&quot;]</value>
+      <webElementGuid>d760e41e-2671-4b81-8107-cea2790cea7a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal1']/form/div/div/materializecss-decorator/div/sf-decorator/div/span</value>
+      <webElementGuid>e9e18a73-3409-4005-9e06-97c992b3be20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[1]/following::span[1]</value>
+      <webElementGuid>bd4da197-7b76-4dac-8085-ddea06761f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/preceding::span[1]</value>
+      <webElementGuid>31989a5f-f8f7-4986-9b93-b490386e4568</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Should not exceed 100 characters']/parent::*</value>
+      <webElementGuid>df0f0ad3-3e1e-482f-a9b7-b1a95334643a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sf-decorator/div/span</value>
+      <webElementGuid>7183a150-6b89-430a-a5bb-724ed556d7e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Should not exceed 100 characters' or . = 'Should not exceed 100 characters')]</value>
+      <webElementGuid>570f0ca6-ef33-4da5-a659-ebbd9d44be6f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

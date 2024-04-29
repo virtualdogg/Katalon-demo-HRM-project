@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_add</name>
+   <tag></tag>
+   <elementGuidId>dd523a8c-8dac-4688-bd40-16971fcc2124</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn-floating.btn-large.waves-effect.waves-light > i.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='educationsDiv']/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a >> internal:has-text=&quot;add&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>4c42e25a-e493-4bba-9da2-9120f8afc517</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>material-icons</value>
+      <webElementGuid>43d60b05-e488-4fe8-93c8-b9513afc7f77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>add</value>
+      <webElementGuid>804bae21-0fa7-4325-b6b6-47c2856643e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;educationsDiv&quot;)/div[@class=&quot;fixed-action-btn floating-add-btn tooltipped active&quot;]/a[@class=&quot;btn-floating btn-large waves-effect waves-light&quot;]/i[@class=&quot;material-icons&quot;]</value>
+      <webElementGuid>82934475-a71a-483d-9bcc-ee1de4ba45b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='educationsDiv']/div/a/i</value>
+      <webElementGuid>365c96a2-94af-4732-9b1c-34408e7f34e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='▼'])[1]/following::i[1]</value>
+      <webElementGuid>bcc1837c-5235-4e3f-8160-056d2d4352ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rows per page'])[1]/following::i[1]</value>
+      <webElementGuid>dc7f345b-2a3a-4b8f-9227-846b31c9b3a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Education'])[1]/preceding::i[1]</value>
+      <webElementGuid>d8ac16cb-e478-4e26-a1b8-b2594712106e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='add']/parent::*</value>
+      <webElementGuid>a43b5d02-1078-4776-8ff0-8ccc84e9e8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ui-view/div/div/div/a/i</value>
+      <webElementGuid>446949ca-37a1-47f6-af74-143798ffec66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'add' or . = 'add')]</value>
+      <webElementGuid>58b3a242-294e-42f5-8c1b-984a89f976e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

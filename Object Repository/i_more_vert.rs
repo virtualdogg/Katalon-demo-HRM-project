@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_more_vert</name>
+   <tag></tag>
+   <elementGuidId>493e1c7e-7fcb-4459-8a0f-19c18b9d35ae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.expand-icon.material-icons</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item[2]/div/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;More more_vert&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1d9a0a0e-ab6a-4bb0-a143-486767905847</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>children &amp;&amp; expandIcon</value>
+      <webElementGuid>b9e10d35-c705-4d1d-9542-06ae2679560b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>expand-icon material-icons</value>
+      <webElementGuid>beec8367-4af9-4a80-ac0d-c85319598986</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_vert</value>
+      <webElementGuid>47ffce9a-2410-4824-802f-8f47e4532bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-ribbon-menu&quot;)/div[@class=&quot;top-ribbon-menu-more-items&quot;]/top-level-menu-item[2]/div[@class=&quot;top-level-menu-item-container&quot;]/a[@class=&quot;top-level-menu-item&quot;]/i[@class=&quot;expand-icon material-icons&quot;]</value>
+      <webElementGuid>47d60d60-9402-4ec9-b132-1fd7cdd37c7e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-ribbon-menu']/div[3]/top-level-menu-item[2]/div/a/i</value>
+      <webElementGuid>de62990a-cc20-4488-8ea9-1b9a48eb4bde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::i[1]</value>
+      <webElementGuid>afe6829e-305a-4a35-8446-c2498db219ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Buzz'])[2]/preceding::i[1]</value>
+      <webElementGuid>895d229a-c384-4281-be41-b1cdd58fdffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='more_vert']/parent::*</value>
+      <webElementGuid>84b60b3e-5cd6-4fec-bf8b-06c4bc3d8b34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//top-level-menu-item[2]/div/a/i</value>
+      <webElementGuid>0f0e210b-91b0-4d43-8fa9-0b92f250db81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[(text() = 'more_vert' or . = 'more_vert')]</value>
+      <webElementGuid>3a7787cf-a7d0-4fed-939a-a012fc5ad1a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='oxd_menu_left'])[1]/preceding::i[1]</value>
+      <webElementGuid>5e390378-cbb1-41bd-9882-76173ae6413a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

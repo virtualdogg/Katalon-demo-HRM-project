@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Yes, Delete</name>
+   <tag></tag>
+   <elementGuidId>def38b1a-3525-4225-958d-32ca7e2a33a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.modal-action.modal-close.waves-effect.btn.primary-btn</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='delete_confirmation_modal']/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Yes, Delete&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>5a41691f-ed1a-4e20-a055-b7e7ed69ed25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>modal.confirm()</value>
+      <webElementGuid>005deb44-6aeb-42e9-b46f-054ace77305b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>modal-action modal-close waves-effect btn primary-btn</value>
+      <webElementGuid>ed173c72-3147-4e3b-b4a2-0374a92be1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes, Delete</value>
+      <webElementGuid>8f5b15ea-1d9b-4926-8920-eda5a9c7421d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;delete_confirmation_modal&quot;)/div[@class=&quot;modal-footer&quot;]/a[@class=&quot;modal-action modal-close waves-effect btn primary-btn&quot;]</value>
+      <webElementGuid>4d1965f0-98c1-4c55-b9cc-c8758789d92b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='delete_confirmation_modal']/div[2]/a[2]</value>
+      <webElementGuid>742afdd7-1740-440d-baa1-05d2d6a31815</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Yes, Delete')]</value>
+      <webElementGuid>66478552-a763-46ca-b8c2-9280d50baae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No, Cancel'])[1]/following::a[1]</value>
+      <webElementGuid>0c67ed7f-2fd4-46e4-882f-552ab1f3001e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{{(list.getTDTooltip(TD.tooltip, obj)) | translate}}'])[7]/following::a[2]</value>
+      <webElementGuid>91c4c319-9c84-4697-9a7d-48948a504cff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes, Delete']/parent::*</value>
+      <webElementGuid>f9f5699e-d27d-45e4-b42a-7949e4047b39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '')])[82]</value>
+      <webElementGuid>380ab787-287b-4e50-baa0-f24f9c3b9192</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a[2]</value>
+      <webElementGuid>281eb3fd-8ac0-49d4-b1d5-d31a048275e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Yes, Delete' or . = 'Yes, Delete')]</value>
+      <webElementGuid>95bc6d43-c78e-4ffe-b803-419262e7818c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

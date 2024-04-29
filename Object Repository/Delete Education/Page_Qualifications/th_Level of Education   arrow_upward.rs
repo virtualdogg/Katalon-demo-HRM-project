@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>th_Level of Education   arrow_upward</name>
+   <tag></tag>
+   <elementGuidId>7b4d65fc-0a3e-40fc-bc75-1a530e33e1fb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>th.row-name.sortable</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='educationsDiv']/crud-panel/div/div/list/table/thead/tr/th[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Level of Education arrow_upward&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>ad1e4346-fc2f-4700-8c6f-34005e4d0673</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-repeat</name>
+      <type>Main</type>
+      <value>listField in listData.listFields</value>
+      <webElementGuid>cbddb63c-efc6-41e1-ad58-8ef199b8ab06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-field</name>
+      <type>Main</type>
+      <value>level</value>
+      <webElementGuid>818ca261-ca55-49a6-9e43-9b8605c12e18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>1d8d5bd1-4537-4287-abfd-5c86ca9eae33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-click</name>
+      <type>Main</type>
+      <value>list.fetchData(listField.name, listField.sortAction, listField.sortable, listData.pagination)</value>
+      <webElementGuid>9165c85d-f0ef-4e2b-bc4d-807d8e631d09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>row-name sortable</value>
+      <webElementGuid>3205be8d-a0d6-4413-ae83-932e7d41e7aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-class</name>
+      <type>Main</type>
+      <value>{sortable: listField.sortable}</value>
+      <webElementGuid>a05c153a-29d3-4c7f-8adc-7e44269ee260</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>(listField.hideField==true?false:true) &amp;&amp; (listField.hideHeader==true?false:true)</value>
+      <webElementGuid>23aafe6e-e33b-4487-b65f-323ea19659e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Level of Education   arrow_upward</value>
+      <webElementGuid>6fa50ea7-154a-4925-adb0-00808eeb38d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;educationsDiv&quot;)/crud-panel[1]/div[@class=&quot;form-div&quot;]/div[@class=&quot;list-container&quot;]/list[1]/table[@class=&quot;highlight bordered&quot;]/thead[1]/tr[1]/th[@class=&quot;row-name sortable&quot;]</value>
+      <webElementGuid>2eca5a61-719a-485a-ac13-4142e0baa410</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='educationsDiv']/crud-panel/div/div/list/table/thead/tr/th[2]</value>
+      <webElementGuid>fc91afdf-1b11-42ba-a5db-8b4530747b32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select All'])[1]/following::th[1]</value>
+      <webElementGuid>649da203-ecb6-4709-a35c-6cef39266d1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='more_horiz'])[1]/following::th[1]</value>
+      <webElementGuid>30781520-6495-4fd4-a1d0-261d659503d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='dad'])[1]/preceding::th[2]</value>
+      <webElementGuid>3d338696-26a6-464e-ae08-ee19d0777ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Level of Education']/parent::*</value>
+      <webElementGuid>0ad9a5f6-5e80-4dbe-98bc-6d3e6afbd644</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]</value>
+      <webElementGuid>30faedde-e886-43f8-a973-e5f76f49d95e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Level of Education   arrow_upward' or . = 'Level of Education   arrow_upward')]</value>
+      <webElementGuid>c999c88f-c93e-41bf-a90b-f5bf1949b28f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
