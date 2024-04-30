@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Level of Education</name>
+   <tag></tag>
+   <elementGuidId>684ffbb6-f092-4d93-afa2-ebd4612070eb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='modal1']/form/div/div/materializecss-decorator/div/sf-decorator/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-field.col.s12.m12.l12 > label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Level of Education*&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a31aa768-8748-4d64-9f81-bad0bb0718ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>name</value>
+      <webElementGuid>41bb2636-f6dc-437a-b127-adfbe0b22d36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!form.hideLabel</value>
+      <webElementGuid>5aca1969-e26d-4722-88a2-a17c98b11c11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Level of Education*</value>
+      <webElementGuid>4a790d3f-32b4-4065-892e-c616494f234b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;modal1&quot;)/form[@class=&quot;ng-pristine ng-valid ng-valid-duplication-education ng-valid-schema-form&quot;]/div[@class=&quot;modal-content&quot;]/div[1]/materializecss-decorator[1]/div[@class=&quot;schema-form-section row&quot;]/sf-decorator[1]/div[@class=&quot;input-field col s12 m12 l12&quot;]/label[1]</value>
+      <webElementGuid>fd5e15fb-0e31-4bef-a8c2-d05d93ea0687</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='modal1']/form/div/div/materializecss-decorator/div/sf-decorator/div/label</value>
+      <webElementGuid>191adf3f-d52b-429f-a416-d92c1d02f2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Education'])[2]/following::label[1]</value>
+      <webElementGuid>6ebd6a98-1029-4ccd-aff6-92028f98e766</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='{{(list.getTDTooltip(TD.tooltip, obj)) | translate}}'])[1]/following::label[1]</value>
+      <webElementGuid>d08c7595-4904-4cc6-8bf2-471648dce0b7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/label</value>
+      <webElementGuid>50add77c-f8f3-487d-b87f-e919a2a2e320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Level of Education*' or . = 'Level of Education*')]</value>
+      <webElementGuid>774f1c88-d58d-41ef-a84a-4a2f92591387</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

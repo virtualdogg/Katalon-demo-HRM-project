@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_more_horizSelect AllLevel of Education _ef6735</name>
+   <tag></tag>
+   <elementGuidId>fc9c7d5b-da76-4239-bf60-c10a2b5406cc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mount-vue-app']/ui-view/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.pim-container</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#mount-vue-app div >> internal:has-text=&quot;more_horizSelect AllLevel of Education arrow_upward dsadaohrm_edit Visual checko&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>dcc04e00-b8ef-4450-affb-810f0d6ca75a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>pim-container</value>
+      <webElementGuid>2743f49e-cea5-4a17-80ac-82b1061f0a62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>more_horizSelect AllLevel of Education   arrow_upward dsadaohrm_edit  Visual checkohrm_edit Rows per page▼1020501001020501001 - 2 of 2add</value>
+      <webElementGuid>c0064e7e-6df9-49ae-9bfd-7960d268859b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mount-vue-app&quot;)/ui-view[1]/div[@class=&quot;pim-container&quot;]</value>
+      <webElementGuid>14eafd7f-7467-4404-b815-35eab2de920a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mount-vue-app']/ui-view/div</value>
+      <webElementGuid>f7a1044b-5e9d-4a6b-9fef-a3648c26cd14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Timesheet'])[2]/following::div[6]</value>
+      <webElementGuid>84354f75-13c5-47d1-973f-c115d84f8602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Request'])[2]/following::div[9]</value>
+      <webElementGuid>736e9f51-05fd-447f-ae65-6d85cfbf2a01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//ui-view/div</value>
+      <webElementGuid>4e6bc5f4-b7fa-423d-a46e-4c348466976f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'more_horizSelect AllLevel of Education   arrow_upward dsadaohrm_edit  Visual checkohrm_edit Rows per page▼1020501001020501001 - 2 of 2add' or . = 'more_horizSelect AllLevel of Education   arrow_upward dsadaohrm_edit  Visual checkohrm_edit Rows per page▼1020501001020501001 - 2 of 2add')]</value>
+      <webElementGuid>15cbd465-b645-499e-a9dd-59a24ed9a726</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

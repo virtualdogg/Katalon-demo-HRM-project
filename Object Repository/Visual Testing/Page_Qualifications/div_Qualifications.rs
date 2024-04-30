@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Qualifications</name>
+   <tag></tag>
+   <elementGuidId>0454f45a-9958-46b8-ae48-bfb6ed0b9c15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topbar']/ul/li[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.page-title.tooltipped.title2 > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=/^Qualifications$/ >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>82379204-c54d-460d-aa73-3360a0786a20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ng-if</name>
+      <type>Main</type>
+      <value>!ohrmnavbar.isClickableTitle($index)</value>
+      <webElementGuid>57af5d13-099f-4052-b6ff-63f44cbb0574</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Qualifications</value>
+      <webElementGuid>087ee042-4588-4a80-a415-ae5cdd89c1a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topbar&quot;)/ul[@class=&quot;topbar-title&quot;]/li[@class=&quot;page-title tooltipped title2&quot;]/div[1]</value>
+      <webElementGuid>dc010bdb-315f-49d0-a562-9b1a5234aa75</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topbar']/ul/li[3]/div</value>
+      <webElementGuid>1c1d4867-2332-436b-8a1e-190dba02de36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/following::div[1]</value>
+      <webElementGuid>c58fee31-d7c5-4bb4-b5b3-51bfcb088bf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Management'])[3]/following::div[1]</value>
+      <webElementGuid>d3e35e65-cba3-4086-872a-64252cfec695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qualifications'])[3]/preceding::div[2]</value>
+      <webElementGuid>3ca56178-35ee-4cdd-87c9-677dde4fedcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aaron Hamilton'])[2]/preceding::div[4]</value>
+      <webElementGuid>de6444df-0f06-4ff6-a3c0-a4cbb36d7b55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div</value>
+      <webElementGuid>4bf1cda1-d869-4516-a5ec-8b2037a22d9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Qualifications' or . = 'Qualifications')]</value>
+      <webElementGuid>2f8f5f89-f207-4ae0-a803-52017376689a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
