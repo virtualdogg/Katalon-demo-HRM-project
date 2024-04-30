@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="VT suite" time="69.107" tests="1" failures="0" errors="0">
+   <testsuite name="VT suite" tests="1" failures="0" errors="0" time="69.107" skipped="0" timestamp="30-04-2024T18:30:51" hostname="arawat - PQA-0532LT.pqatesting.com" id="Test Suites/VT suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\arawat\\git\\Katalon-demo-HRM-project\\Reports\\20240430_183045\\VT suite\\20240430_183045"/>
+         <property name="logFiles" value="C:\\Users\\arawat\\git\\Katalon-demo-HRM-project\\Reports\\20240430_183045\\VT suite\\20240430_183045\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="arawat - PQA-0532LT.pqatesting.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.125"/>
+         <property name="sessionId" value="372d719a388659ab87c40b8c09487c5e"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/VT3" time="68.852" classname="Test Cases/VT3" status="PASSED">
+         <system-out><![CDATA[30-04-2024T18:30:51 - [TEST_CASE][PASSED] - Test Cases/VT3: Test Cases/VT3
+
+30-04-2024T18:30:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+30-04-2024T18:30:52 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+30-04-2024T18:30:52 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+30-04-2024T18:30:53 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+30-04-2024T18:30:53 - [TEST_STEP][PASSED] - navigateToUrl("https://demoorangeforme-trials712.orangehrmlive.com/"): Navigate to 'https://demoorangeforme-trials712.orangehrmlive.com/' successfully
+
+30-04-2024T18:30:55 - [MESSAGE][PASSED] - Navigate to 'https://demoorangeforme-trials712.orangehrmlive.com/' successfully
+
+30-04-2024T18:30:55 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtUsername"), "admin"): Text 'admin' is set on object 'Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtUsername'
+
+30-04-2024T18:30:56 - [MESSAGE][PASSED] - Text 'admin' is set on object 'Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtUsername'
+
+30-04-2024T18:30:56 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtPassword"), "Ns/gyzxDMr4pu6LNweHOow=="): Text ****** has been set on object 'Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtPassword'
+
+30-04-2024T18:30:57 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtPassword'
+
+30-04-2024T18:30:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Visual Testing/Page_OrangeHRM/button_Login")): Object: 'Object Repository/Visual Testing/Page_OrangeHRM/button_Login' is clicked on
+
+30-04-2024T18:31:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Visual Testing/Page_OrangeHRM/button_Login' is clicked on
+
+30-04-2024T18:31:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Visual Testing/Page_Employee Management/input_search_menuQuickSearchmenuQuickSearch"), "education"): Text 'education' is set on object 'Object Repository/Visual Testing/Page_Employee Management/input_search_menuQuickSearchmenuQuickSearch'
+
+30-04-2024T18:31:20 - [MESSAGE][PASSED] - Text 'education' is set on object 'Object Repository/Visual Testing/Page_Employee Management/input_search_menuQuickSearchmenuQuickSearch'
+
+30-04-2024T18:31:20 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Visual Testing/Page_Employee Management/div_Education")): Object: 'Object Repository/Visual Testing/Page_Employee Management/div_Education' is clicked on
+
+30-04-2024T18:31:21 - [MESSAGE][PASSED] - Object: 'Object Repository/Visual Testing/Page_Employee Management/div_Education' is clicked on
+
+30-04-2024T18:31:21 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _ef6735")): Object: 'Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _ef6735' is clicked on
+
+30-04-2024T18:31:22 - [MESSAGE][PASSED] - Object: 'Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _ef6735' is clicked on
+
+30-04-2024T18:31:22 - [TEST_STEP][PASSED] - com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow("Qualification check"): com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow is PASSED
+
+30-04-2024T18:31:41 - [MESSAGE][INFO] - Test Passed. See URL: https://eyes.applitools.com/app/batches/00000251687784512592/00000251687784512478?accountId=0QWtYQl14EaBbe7__uLjkg__
+
+
+30-04-2024T18:31:41 - [MESSAGE][PASSED] - com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow is PASSED
+
+30-04-2024T18:31:41 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Visual Testing/Page_Qualifications/i_add")): Object: 'Object Repository/Visual Testing/Page_Qualifications/i_add' is clicked on
+
+30-04-2024T18:31:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Visual Testing/Page_Qualifications/i_add' is clicked on
+
+30-04-2024T18:31:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Visual Testing/Page_Qualifications/input_Add Education_name"), "bhjn"): Text 'bhjn' is set on object 'Object Repository/Visual Testing/Page_Qualifications/input_Add Education_name'
+
+30-04-2024T18:31:44 - [MESSAGE][PASSED] - Text 'bhjn' is set on object 'Object Repository/Visual Testing/Page_Qualifications/input_Add Education_name'
+
+30-04-2024T18:31:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Visual Testing/Page_Qualifications/a_Save")): Object: 'Object Repository/Visual Testing/Page_Qualifications/a_Save' is clicked on
+
+30-04-2024T18:31:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Visual Testing/Page_Qualifications/a_Save' is clicked on
+
+30-04-2024T18:31:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved")): Object: 'Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved' is clicked on
+
+30-04-2024T18:31:46 - [MESSAGE][PASSED] - Object: 'Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved' is clicked on
+
+30-04-2024T18:31:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _88faa7")): Object: 'Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _88faa7' is clicked on
+
+30-04-2024T18:31:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _88faa7' is clicked on
+
+30-04-2024T18:31:47 - [TEST_STEP][PASSED] - com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow("Added Qualification"): com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow is PASSED
+
+30-04-2024T18:32:00 - [MESSAGE][INFO] - Test Passed. See URL: https://eyes.applitools.com/app/batches/00000251687784490754/00000251687784490631?accountId=0QWtYQl14EaBbe7__uLjkg__
+
+
+30-04-2024T18:32:00 - [MESSAGE][PASSED] - com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow is PASSED]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[30-04-2024T18:30:51 - [TEST_SUITE][PASSED] - VT suite: Test Cases/VT3]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

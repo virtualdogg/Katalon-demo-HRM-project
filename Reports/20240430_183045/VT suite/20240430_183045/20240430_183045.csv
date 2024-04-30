@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+VT suite,Chrome 124.0.0.0,,,30-04-2024 18:30:51,30-04-2024 18:32:00,1m - 9.107s,PASSED
+,,,,,,,
+Test Cases/VT3,Chrome 124.0.0.0,,,30-04-2024 18:30:51,30-04-2024 18:32:00,1m - 8.852s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,30-04-2024 18:30:51,30-04-2024 18:30:53,2.204s,PASSED
+"navigateToUrl(""https://demoorangeforme-trials712.orangehrmlive.com/"")",Chrome 124.0.0.0,,,30-04-2024 18:30:53,30-04-2024 18:30:55,1.971s,PASSED
+"setText(findTestObject(""Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtUsername""), ""admin"")",Chrome 124.0.0.0,,,30-04-2024 18:30:55,30-04-2024 18:30:56,0.916s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Visual Testing/Page_OrangeHRM/input_Login_txtPassword""), ""Ns/gyzxDMr4pu6LNweHOow=="")",Chrome 124.0.0.0,,,30-04-2024 18:30:56,30-04-2024 18:30:57,0.587s,PASSED
+"click(findTestObject(""Object Repository/Visual Testing/Page_OrangeHRM/button_Login""))",Chrome 124.0.0.0,,,30-04-2024 18:30:57,30-04-2024 18:31:07,9.628s,PASSED
+"setText(findTestObject(""Object Repository/Visual Testing/Page_Employee Management/input_search_menuQuickSearchmenuQuickSearch""), ""education"")",Chrome 124.0.0.0,,,30-04-2024 18:31:07,30-04-2024 18:31:20,13.508s,PASSED
+"click(findTestObject(""Object Repository/Visual Testing/Page_Employee Management/div_Education""))",Chrome 124.0.0.0,,,30-04-2024 18:31:20,30-04-2024 18:31:21,0.671s,PASSED
+"click(findTestObject(""Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _ef6735""))",Chrome 124.0.0.0,,,30-04-2024 18:31:21,30-04-2024 18:31:22,1.019s,PASSED
+"com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow(""Qualification check"")",Chrome 124.0.0.0,,,30-04-2024 18:31:22,30-04-2024 18:31:41,19.667s,PASSED
+"click(findTestObject(""Object Repository/Visual Testing/Page_Qualifications/i_add""))",Chrome 124.0.0.0,,,30-04-2024 18:31:41,30-04-2024 18:31:42,0.489s,PASSED
+"setText(findTestObject(""Object Repository/Visual Testing/Page_Qualifications/input_Add Education_name""), ""bhjn"")",Chrome 124.0.0.0,,,30-04-2024 18:31:42,30-04-2024 18:31:44,1.635s,PASSED
+"click(findTestObject(""Object Repository/Visual Testing/Page_Qualifications/a_Save""))",Chrome 124.0.0.0,,,30-04-2024 18:31:44,30-04-2024 18:31:44,0.838s,PASSED
+"click(findTestObject(""Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved""))",Chrome 124.0.0.0,,,30-04-2024 18:31:44,30-04-2024 18:31:46,1.753s,PASSED
+"click(findTestObject(""Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _88faa7""))",Chrome 124.0.0.0,,,30-04-2024 18:31:46,30-04-2024 18:31:47,0.406s,PASSED
+"com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow(""Added Qualification"")",Chrome 124.0.0.0,,,30-04-2024 18:31:47,30-04-2024 18:32:00,13.104s,PASSED
