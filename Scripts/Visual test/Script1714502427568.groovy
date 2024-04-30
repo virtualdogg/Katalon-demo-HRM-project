@@ -48,3 +48,5 @@ WebUI.click(findTestObject('Object Repository/Add education/Page_Qualifications/
 
 WebUI.takeScreenshotAsCheckpoint('Add edu confirmation')
 
+WebUI.closeBrowser()
+
