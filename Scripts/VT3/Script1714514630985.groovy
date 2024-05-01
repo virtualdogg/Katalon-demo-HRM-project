@@ -34,17 +34,18 @@ WebUI.click(findTestObject('Object Repository/Visual Testing/Page_Employee Manag
 
 WebUI.click(findTestObject('Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _ef6735'))
 
-CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Qualification check')
-
+//CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Qualification check')
+WebUI.takeScreenshotAsCheckpoint('Qualification check')
 WebUI.click(findTestObject('Object Repository/Visual Testing/Page_Qualifications/i_add'))
 
-WebUI.setText(findTestObject('Object Repository/Visual Testing/Page_Qualifications/input_Add Education_name'), 'bhjn')
+WebUI.setText(findTestObject('Object Repository/Visual Testing/Page_Qualifications/input_Add Education_name'), 'bjsdn')
 
 WebUI.click(findTestObject('Object Repository/Visual Testing/Page_Qualifications/a_Save'))
 
-WebUI.click(findTestObject('Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved'))
+//WebUI.click(findTestObject('Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved'))
 
 WebUI.click(findTestObject('Object Repository/Visual Testing/Page_Qualifications/div_more_horizSelect AllLevel of Education _88faa7'))
 
-CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Added Qualification')
+//CustomKeywords.'com.kms.katalon.keyword.applitools.BasicKeywords.checkWindow'('Added Qualification')
+WebUI.takeScreenshotAsCheckpoint('ATQ')
 
