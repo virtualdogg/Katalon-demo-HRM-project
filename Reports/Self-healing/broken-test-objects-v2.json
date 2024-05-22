@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved",
+      "brokenLocator": "//div[@id\u003d\u0027oxd-toaster_1\u0027]/div",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[2]/div",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved_position.png"
+    }
+  ]
 }

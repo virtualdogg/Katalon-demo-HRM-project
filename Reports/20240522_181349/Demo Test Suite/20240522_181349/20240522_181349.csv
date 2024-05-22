@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo Test Suite,Chrome 124.0.0.0,,,22-05-2024 18:14:00,22-05-2024 18:14:10,10.213s,PASSED
+,,,,,,,
+Test Cases/Login Demo,Chrome 124.0.0.0,,,22-05-2024 18:14:00,22-05-2024 18:14:10,9.669s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,22-05-2024 18:14:01,22-05-2024 18:14:04,3.579s,PASSED
+"navigateToUrl(""https://suchitras-osondemand.orangehrm.com/auth/login"")",Chrome 124.0.0.0,,,22-05-2024 18:14:04,22-05-2024 18:14:06,2.082s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username""))",Chrome 124.0.0.0,,,22-05-2024 18:14:06,22-05-2024 18:14:08,1.348s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username""), ""Admin"")",Chrome 124.0.0.0,,,22-05-2024 18:14:08,22-05-2024 18:14:09,0.899s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_password""), ""MO/W/bb8LbyolrbqXUog/g=="")",Chrome 124.0.0.0,,,22-05-2024 18:14:09,22-05-2024 18:14:09,0.599s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Login""))",Chrome 124.0.0.0,,,22-05-2024 18:14:09,22-05-2024 18:14:10,0.632s,PASSED

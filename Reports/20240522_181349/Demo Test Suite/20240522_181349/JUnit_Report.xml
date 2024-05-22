@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Demo Test Suite" time="10.213" tests="1" failures="0" errors="0">
+   <testsuite name="Demo Test Suite" tests="1" failures="0" errors="0" time="10.213" skipped="0" timestamp="22-05-2024T18:14:00" hostname="arawat - PQA-0532LT.pqatesting.com" id="Test Suites/Demo Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\arawat\\git\\Katalon-demo-HRM-projectnew account\\Reports\\20240522_181349\\Demo Test Suite\\20240522_181349"/>
+         <property name="logFiles" value="C:\\Users\\arawat\\git\\Katalon-demo-HRM-projectnew account\\Reports\\20240522_181349\\Demo Test Suite\\20240522_181349\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="arawat - PQA-0532LT.pqatesting.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.118"/>
+         <property name="sessionId" value="009171ac0f74234cf2877daab32325b0"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Login Demo" time="9.669" classname="Test Cases/Login Demo" status="PASSED">
+         <system-out><![CDATA[22-05-2024T18:14:00 - [TEST_CASE][PASSED] - Test Cases/Login Demo: Test Cases/Login Demo
+
+22-05-2024T18:14:01 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-05-2024T18:14:01 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-05-2024T18:14:01 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-05-2024T18:14:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-05-2024T18:14:04 - [TEST_STEP][PASSED] - navigateToUrl("https://suchitras-osondemand.orangehrm.com/auth/login"): Navigate to 'https://suchitras-osondemand.orangehrm.com/auth/login' successfully
+
+22-05-2024T18:14:06 - [MESSAGE][PASSED] - Navigate to 'https://suchitras-osondemand.orangehrm.com/auth/login' successfully
+
+22-05-2024T18:14:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/input_Username_username")): Object: 'Object Repository/Page_OrangeHRM/input_Username_username' is clicked on
+
+22-05-2024T18:14:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/input_Username_username' is clicked on
+
+22-05-2024T18:14:08 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username_username'
+
+22-05-2024T18:14:09 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username_username'
+
+22-05-2024T18:14:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_OrangeHRM/input_Password_password"), "MO/W/bb8LbyolrbqXUog/g=="): Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_Password_password'
+
+22-05-2024T18:14:09 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_Password_password'
+
+22-05-2024T18:14:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/button_Login")): Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on
+
+22-05-2024T18:14:10 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-05-2024T18:14:00 - [TEST_SUITE][PASSED] - Demo Test Suite: Test Cases/Login Demo]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
