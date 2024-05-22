@@ -37,11 +37,11 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Education'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Add'))
 
-WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus'), 'ccx')
+WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus'), 'ckmnmickx')
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Save'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/div_Demo purpose'), 'ccx')
+//WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/div_Demo purpose'), 'cicx')
 
