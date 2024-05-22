@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo Test Suite,Chrome 124.0.0.0,,,22-05-2024 15:05:22,22-05-2024 15:05:45,23.547s,PASSED
+,,,,,,,
+Test Cases/Demo test case,Chrome 124.0.0.0,,,22-05-2024 15:05:22,22-05-2024 15:05:45,23.357s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,22-05-2024 15:05:22,22-05-2024 15:05:24,2.200s,PASSED
+"navigateToUrl(""https://suchitras-osondemand.orangehrm.com/auth/login"")",Chrome 124.0.0.0,,,22-05-2024 15:05:24,22-05-2024 15:05:25,0.684s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username""))",Chrome 124.0.0.0,,,22-05-2024 15:05:25,22-05-2024 15:05:29,3.377s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Username_username""), ""Admin"")",Chrome 124.0.0.0,,,22-05-2024 15:05:29,22-05-2024 15:05:29,0.709s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_OrangeHRM/input_Password_password""), ""MO/W/bb8LbyolrbqXUog/g=="")",Chrome 124.0.0.0,,,22-05-2024 15:05:29,22-05-2024 15:05:30,0.425s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Login""))",Chrome 124.0.0.0,,,22-05-2024 15:05:30,22-05-2024 15:05:30,0.341s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/span_Admin""))",Chrome 124.0.0.0,,,22-05-2024 15:05:30,22-05-2024 15:05:34,3.982s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/span_Qualifications""))",Chrome 124.0.0.0,,,22-05-2024 15:05:34,22-05-2024 15:05:35,1.416s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/a_Education""))",Chrome 124.0.0.0,,,22-05-2024 15:05:35,22-05-2024 15:05:36,0.911s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Add""))",Chrome 124.0.0.0,,,22-05-2024 15:05:36,22-05-2024 15:05:38,1.916s,PASSED
+"setText(findTestObject(""Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus""), ""Demo purpose"")",Chrome 124.0.0.0,,,22-05-2024 15:05:38,22-05-2024 15:05:39,1.191s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/button_Save""))",Chrome 124.0.0.0,,,22-05-2024 15:05:39,22-05-2024 15:05:40,0.312s,PASSED
+"click(findTestObject(""Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved""))",Chrome 124.0.0.0,,,22-05-2024 15:05:40,22-05-2024 15:05:42,1.809s,PASSED
+"verifyElementText(findTestObject(""Object Repository/Page_OrangeHRM/div_Demo purpose""), ""Demo purpose"")",Chrome 124.0.0.0,,,22-05-2024 15:05:42,22-05-2024 15:05:45,3.808s,PASSED

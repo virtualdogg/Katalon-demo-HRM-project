@@ -18,7 +18,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>form >> internal:role=textbox</value>
+         <value>internal:role=textbox >> nth=1</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e2b3972c-0437-45e4-a860-ef7fb7be984a</webElementGuid>
+      <webElementGuid>af969cfa-0ad1-41ba-93bc-a91962ce62cd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>oxd-input oxd-input--focus</value>
-      <webElementGuid>8468dbba-b600-471b-9ca8-7fe86186bce4</webElementGuid>
+      <webElementGuid>ab7015b4-4553-49d5-a004-be580ef72b9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;oxd-layout&quot;]/div[@class=&quot;oxd-layout-container&quot;]/div[@class=&quot;oxd-layout-context&quot;]/div[@class=&quot;orangehrm-background-container&quot;]/div[@class=&quot;orangehrm-card-container&quot;]/form[@class=&quot;oxd-form&quot;]/div[@class=&quot;oxd-form-row&quot;]/div[@class=&quot;oxd-input-group oxd-input-field-bottom-space&quot;]/div[2]/input[@class=&quot;oxd-input oxd-input--focus&quot;]</value>
-      <webElementGuid>50144fcd-5f96-42ee-9477-2484e82b7254</webElementGuid>
+      <webElementGuid>db494c20-0f93-4dd7-af1e-5d023bd0f9b0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/div[2]/div[2]/div/div/form/div/div/div[2]/input</value>
-      <webElementGuid>e38073de-3769-4bbb-b7de-a947e932d8a4</webElementGuid>
+      <webElementGuid>362d7094-ea28-4a30-b267-0de7d3eb800b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>7e8c8359-228a-40b0-b23c-abcb8c38e118</webElementGuid>
+      <webElementGuid>3af015a6-e4b3-42d6-865d-86dec443203a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

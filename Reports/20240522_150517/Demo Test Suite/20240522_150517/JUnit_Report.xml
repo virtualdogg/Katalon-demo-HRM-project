@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Demo Test Suite" time="23.547" tests="1" failures="0" errors="0">
+   <testsuite name="Demo Test Suite" tests="1" failures="0" errors="0" time="23.547" skipped="0" timestamp="22-05-2024T15:05:22" hostname="arawat - PQA-0532LT.pqatesting.com" id="Test Suites/Demo Test Suite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\arawat\\git\\Katalon-demo-HRM-projectnew account\\Reports\\20240522_150517\\Demo Test Suite\\20240522_150517"/>
+         <property name="logFiles" value="C:\\Users\\arawat\\git\\Katalon-demo-HRM-projectnew account\\Reports\\20240522_150517\\Demo Test Suite\\20240522_150517\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="arawat - PQA-0532LT.pqatesting.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.118"/>
+         <property name="sessionId" value="b8a2cf929d02d0e3ad7174a4d64d64bc"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Demo test case" time="23.357" classname="Test Cases/Demo test case" status="PASSED">
+         <system-out><![CDATA[22-05-2024T15:05:22 - [TEST_CASE][PASSED] - Test Cases/Demo test case: Test Cases/Demo test case
+
+22-05-2024T15:05:22 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+22-05-2024T15:05:23 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+22-05-2024T15:05:23 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+22-05-2024T15:05:24 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+22-05-2024T15:05:24 - [TEST_STEP][PASSED] - navigateToUrl("https://suchitras-osondemand.orangehrm.com/auth/login"): Navigate to 'https://suchitras-osondemand.orangehrm.com/auth/login' successfully
+
+22-05-2024T15:05:25 - [MESSAGE][PASSED] - Navigate to 'https://suchitras-osondemand.orangehrm.com/auth/login' successfully
+
+22-05-2024T15:05:25 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/input_Username_username")): Object: 'Object Repository/Page_OrangeHRM/input_Username_username' is clicked on
+
+22-05-2024T15:05:28 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/input_Username_username' is clicked on
+
+22-05-2024T15:05:29 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_OrangeHRM/input_Username_username"), "Admin"): Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username_username'
+
+22-05-2024T15:05:29 - [MESSAGE][PASSED] - Text 'Admin' is set on object 'Object Repository/Page_OrangeHRM/input_Username_username'
+
+22-05-2024T15:05:29 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_OrangeHRM/input_Password_password"), "MO/W/bb8LbyolrbqXUog/g=="): Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_Password_password'
+
+22-05-2024T15:05:30 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_OrangeHRM/input_Password_password'
+
+22-05-2024T15:05:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/button_Login")): Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on
+
+22-05-2024T15:05:30 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/button_Login' is clicked on
+
+22-05-2024T15:05:30 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/span_Admin")): Object: 'Object Repository/Page_OrangeHRM/span_Admin' is clicked on
+
+22-05-2024T15:05:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/span_Admin' is clicked on
+
+22-05-2024T15:05:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/span_Qualifications")): Object: 'Object Repository/Page_OrangeHRM/span_Qualifications' is clicked on
+
+22-05-2024T15:05:35 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/span_Qualifications' is clicked on
+
+22-05-2024T15:05:35 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/a_Education")): Object: 'Object Repository/Page_OrangeHRM/a_Education' is clicked on
+
+22-05-2024T15:05:36 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/a_Education' is clicked on
+
+22-05-2024T15:05:36 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/button_Add")): Object: 'Object Repository/Page_OrangeHRM/button_Add' is clicked on
+
+22-05-2024T15:05:38 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/button_Add' is clicked on
+
+22-05-2024T15:05:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus"), "Demo purpose"): Text 'Demo purpose' is set on object 'Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus'
+
+22-05-2024T15:05:39 - [MESSAGE][PASSED] - Text 'Demo purpose' is set on object 'Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus'
+
+22-05-2024T15:05:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/button_Save")): Object: 'Object Repository/Page_OrangeHRM/button_Save' is clicked on
+
+22-05-2024T15:05:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/button_Save' is clicked on
+
+22-05-2024T15:05:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved")): Object: 'Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved' is clicked on
+
+22-05-2024T15:05:42 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved' is clicked on
+
+22-05-2024T15:05:42 - [TEST_STEP][PASSED] - verifyElementText(findTestObject("Object Repository/Page_OrangeHRM/div_Demo purpose"), "Demo purpose"): Actual text and expected text of test object 'Object Repository/Page_OrangeHRM/div_Demo purpose' are matched.
+
+22-05-2024T15:05:45 - [MESSAGE][PASSED] - Actual text and expected text of test object 'Object Repository/Page_OrangeHRM/div_Demo purpose' are matched.]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[22-05-2024T15:05:22 - [TEST_SUITE][PASSED] - Demo Test Suite: Test Cases/Demo test case]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
