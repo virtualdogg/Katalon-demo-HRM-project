@@ -1,24 +1,3 @@
 {
-  "brokenTestObjects": [
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Job Categories/Page_Job/div_Successfully Saved",
-      "brokenLocator": "//div[@id\u003d\u0027toast-container\u0027]/div/div",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027OrangeHRM, Inc\u0027])[1]/following::div[3]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Job Categories/Page_Job/div_Successfully Saved_neighbor.png"
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved",
-      "brokenLocator": "//div[@id\u003d\u0027toast-container\u0027]/div/div",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027OrangeHRM, Inc\u0027])[1]/following::div[3]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/Visual Testing/Page_Qualifications/div_Successfully Saved_neighbor.png"
-    }
-  ]
+  "brokenTestObjects" : [ ]
 }

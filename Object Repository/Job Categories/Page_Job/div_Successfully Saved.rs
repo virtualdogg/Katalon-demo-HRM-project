@@ -6,12 +6,12 @@
    <elementGuidId>70be0920-dfd4-4346-a13b-c877fa8561a4</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.toast-message</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='OrangeHRM, Inc'])[1]/following::div[3]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='toast-container']/div/div</value>
+         <key>CSS</key>
+         <value>div.toast-message</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
