@@ -233,6 +233,7 @@
 			</matcher>
 		</filter>
 		<filter>
+<<<<<<< HEAD
 			<id>1716317782622</id>
 			<name></name>
 			<type>10</type>
@@ -243,6 +244,18 @@
 		</filter>
 		<filter>
 			<id>1716317782634</id>
+=======
+			<id>1716325597975</id>
+			<name></name>
+			<type>10</type>
+			<matcher>
+				<id>org.eclipse.core.resources.regexFilterMatcher</id>
+				<arguments>.*\.svn$</arguments>
+			</matcher>
+		</filter>
+		<filter>
+			<id>1716325597985</id>
+>>>>>>> branch 'main' of https://github.com/virtualdogg/Katalon-demo-HRM-project.git
 			<name></name>
 			<type>6</type>
 			<matcher>

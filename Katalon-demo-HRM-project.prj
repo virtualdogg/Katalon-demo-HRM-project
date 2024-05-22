@@ -4,14 +4,13 @@
    <name>Katalon-demo-HRM-project</name>
    <tag></tag>
    <UUID>a6cd8519-68ee-43bf-bf84-46a6cfd2a34e</UUID>
-   <createdEdition>ENTERPRISE</createdEdition>
-   <createdVersion>9.4.0</createdVersion>
-   <freeLicense>false</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
-   <modifiedEdition>ENTERPRISE</modifiedEdition>
-   <modifiedVersion>9.4.0</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+<<<<<<< HEAD
    <projectFileLocation>C:\Users\arawat\git\Katalon-demo-HRM-projectnew account\Katalon-demo-HRM-project.prj</projectFileLocation>
+=======
+   <projectFileLocation>C:\Users\NaveenPatti\git\Katalon-demo-HRM-project\Katalon-demo-HRM-project.prj</projectFileLocation>
+>>>>>>> branch 'main' of https://github.com/virtualdogg/Katalon-demo-HRM-project.git
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
