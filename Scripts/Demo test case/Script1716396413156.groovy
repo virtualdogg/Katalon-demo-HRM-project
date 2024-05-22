@@ -43,5 +43,5 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Save'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/div_SuccessSuccessfully Saved'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/div_Demo purpose'), 'Demo purpose')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_OrangeHRM/div_Demo purpose'), 'ccx')
 
