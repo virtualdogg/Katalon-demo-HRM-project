@@ -37,7 +37,7 @@ WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/a_Education'))
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Add'))
 
-WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus'), 'ckmnmickx')
+WebUI.setText(findTestObject('Object Repository/Page_OrangeHRM/input_Level_oxd-input oxd-input--focus'), 'ckmnmicdsfsfskx')
 
 WebUI.click(findTestObject('Object Repository/Page_OrangeHRM/button_Save'))
 
